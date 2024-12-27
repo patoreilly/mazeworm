@@ -3,7 +3,8 @@ var config = {
     parent: 'phaser-example',
     width: 640,
     height: 400,
-    transparent: true,
+    //transparent: true,
+    backgroundColor: '#494561',
     roundPixels: true,
     pixelArt: true,
     physics: {
